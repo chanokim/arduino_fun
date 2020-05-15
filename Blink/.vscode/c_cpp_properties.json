@@ -1,0 +1,82 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Mac",
+            "macFrameworkPath": [],
+            "includePath": [
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/include",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/src",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/dht_nonblocking",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/variants/standard",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/DS3231",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/HC-SR04",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Keypad",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Keypad/utility",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/LedControl",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/LiquidCrystal",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/MPU6050",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Servo",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Stepper",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/pitches",
+                "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/rfid",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/ckim/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/include",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/src",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/dht_nonblocking",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/DS3231",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/HC-SR04",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Keypad",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Keypad/utility",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/LedControl",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/LiquidCrystal",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/MPU6050",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Servo",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/Stepper",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/pitches",
+                    "/Users/ckim/Developer/arduino-raspberry/arduino-platformio/Blink/lib/rfid",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/Users/ckim/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/ckim/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40303",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/ckim/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
