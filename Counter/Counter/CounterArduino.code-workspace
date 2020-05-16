@@ -1,8 +1,12 @@
 {
-	"folders": [
-		{
-			"name": "Counter",
-			"path": "."
-		}
-	]
+    "folders": [
+        {
+            "name": "Counter",
+            "path": ".."
+        },
+        {
+            "name": "MotorRunning",
+            "path": "../../MotorRunning"
+        }
+    ]
 }
